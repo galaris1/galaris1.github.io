@@ -4,8 +4,5 @@ Here I am writing the inline formula $x\ne 0 \implies x^2 > 0$.
 If I want to present a central formula in a new line, I will write
 
 $$
-\begin{aligned}
-(a+b)^2 &= (a+b)(a+b) \\
-        &= a^2 + 2ab + b^2
-\end{aligned}
+1^3 + 2^3 + \dots + n^3 = (1+2+\dots+n)^2
 $$
